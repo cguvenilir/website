@@ -1,0 +1,148 @@
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  margin: 30px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  color: #40514E;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Alex Brush', cursive;
+  font-size: 6rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  margin: 75px auto;
+  width: 5%;
+}
+
+p {
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 160px;
+  position: relative;
+}
+
+.middle-container {
+  padding: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.contact-me {
+  margin: 50px auto;
+  width: 50%;
+}
+
+.profile {
+  margin: 50px auto;
+  width: 40%;
+}
+
+.property {
+  color: #EAF6F6;
+  font-size: 12px;
+  margin-top: 50px;
+}
+
+.second-h {
+  font-weight: 200;
+}
+
+.skill-row {
+  margin: 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+  top: 400px;
+}
+
+.cooking-img {
+  float: left;
+  margin-right: 30px;
+  width: 30%;
+}
+
+.language-img {
+  float: right;
+  margin-left: 30px;
+  width: 30%;
+}
+
+.programming-img {
+  float: left;
+  margin-right: 30px;
+  width: 30%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.BUTTON_LYP {
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  font-weight: 300;
+  padding: 12px;
+  background-color: #66BFBF;
+  border: solid #66BFBF 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.BUTTON_LYP:hover {
+  background: #E4F9F5;
+  border: solid #E4F9F5 1px;
+  color: #66BFBF;
+  font-weight: 600;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+  text-decoration: none;
+}
